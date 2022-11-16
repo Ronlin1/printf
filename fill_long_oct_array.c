@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * fill_long_oct_array - calculates a long octal number
  *
